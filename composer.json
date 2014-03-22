@@ -1,0 +1,9 @@
+{
+    "name": "matgargano/mgargano",
+    "version": "master",
+    "type": "wordpress-theme",
+    "dist": {
+        "url": "git@bitbucket.org:matgargano/mgargano.git",
+        "type": "git"
+    }
+}
